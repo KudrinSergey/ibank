@@ -1,4 +1,4 @@
-package ru.netology.ibank;
+package ru.netology.ibank.Data;
 
 import com.github.javafaker.Faker;
 import com.google.gson.Gson;
